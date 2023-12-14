@@ -1,0 +1,38 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.225" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/drawable/cancel_btn.xml" value="0.225" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/drawable/cancel_btn_style.xml" value="0.127" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/drawable/ic_add.xml" value="0.225" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/drawable/ic_cancel.xml" value="0.225" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/drawable/ic_edit.xml" value="0.225" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/drawable/ic_ok.xml" value="0.225" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/drawable/ok_btn.xml" value="0.225" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/layout/activity_main.xml" value="0.2453125" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/layout/custom_data_adding.xml" value="0.259375" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/layout/device_adding_fragment.xml" value="0.2453125" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/layout/device_edit_fragment.xml" value="0.2453125" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/layout/device_fragment.xml" value="0.259375" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/layout/device_row.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/layout/effect_row.xml" value="0.259375" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/layout/embedded_lamp_fragment.xml" value="0.259375" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/layout/embedded_meteo_fragment.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/layout/graph_fragment.xml" value="0.259375" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/layout/lamp_control.xml" value="0.259375" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/layout/lamp_effect_row.xml" value="0.21196581196581196" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/layout/main_fragment.xml" value="0.2453125" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/layout/meteo_control.xml" value="0.259375" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/layout/meteo_data_row.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/ilmag/AndroidStudioProjects/Embedded/app/src/main/res/layout/settings_fragment.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

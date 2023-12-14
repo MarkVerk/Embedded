@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Embedded</string>
+    <string-array name="device_types">
+        <item>Weather Sensor</item>
+        <item>Lamp</item>
+    </string-array>
+    <string name="config_file">config.json</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="lamp_v1_effects">
+        <item>Blink</item>
+        <item>Rainbow</item>
+        <item>Lava</item>
+        <item>Fire</item>
+        <item>Lighting</item>
+        <item>SineWave</item>
+        <item>-</item>
+        <item>Solid White</item>
+        <item>Confetti</item>
+    </string-array>
+    <string-array name="lamp_v1_palettes">
+        <item>Rainbow</item>
+        <item>Lava</item>
+        <item>Wood Fire</item>
+        <item>Normal Fire</item>
+        <item>Lithium Fire</item>
+        <item>Sodium Fire</item>
+        <item>Copper Fire</item>
+        <item>Alcohol Fire</item>
+        <item>Heat Colors</item>
+        <item>Lightning</item>
+    </string-array>
+</resources>
